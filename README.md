@@ -1,5 +1,11 @@
 # vue-test
 
+Разработка велась на следующих версиях:
+```
+Node.js: 18.20.4
+npm: 10.7.0
+```
+
 ## Project setup
 ```
 npm install
